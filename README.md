@@ -1,1 +1,3 @@
 # Tennis-Player-Analytics
+
+By implementing this project, I aim to build a video analytics system for tennis. The current systems using multiple highspeed cameras at different angles to track the player movements and the ball tracking. I propose to use a video from a single camera at a fixed angle and use computer vision techniques to provide insights into the player statistics for the game. This solution would be more scalable and requires minimal hardware to be able to provide the analytics for the players, making it easy for amateur or semi-professional players to track their performance to improve on their game tactics and performance.
